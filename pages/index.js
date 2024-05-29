@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Pai eu te amo muito, o senhor é o melhor pai que alguém pode ter ❤️</h1>
+    return <h1>Se você recebeu isso significa que você é muito especial pra mim! ✌️🤩</h1>
 }
 
 export default Home;
