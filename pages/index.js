@@ -8,6 +8,7 @@ function Home() {
         <li>Qundo crescer quero ser Cirugiã Plastica</li>
     </ul>
     </h2></>
+
 }
 
 export default Home;
